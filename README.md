@@ -1,5 +1,5 @@
 ### Hi there, I'm Rizqy Fachri 
-### You can visit my personal here - [website] 👋
+### You can visit my personal site here - [website] 👋
 
 
 ## I'm a web developer, business consultant, and an MBA grad!
