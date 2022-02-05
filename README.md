@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators to make something cool
-- 🥅 Short-term Goals: Contribute more to Open Source projects
+- 🥅 Short-term goals: Contribute more to Open Source projects
 - 🌍 Fun fact: I love golfing and everything that related to nature!
 
 ### Connect with me:
