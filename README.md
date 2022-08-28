@@ -2,7 +2,7 @@
 ### You can visit my personal site here - [website] 👋
 
 
-## I'm a web developer, business consultant, and an MBA grad!
+## I'm a web developer, UX designer, and an MBA grad!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators to make something cool
