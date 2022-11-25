@@ -2,7 +2,7 @@
 ### You can visit my personal site here - [website] 👋
 
 
-## I'm a software developer, UX designer, and also an MBA grad!
+## I'm a UX designer who love to code a front-end project (oh and I'm an MBA grad as well)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators to make something cool
