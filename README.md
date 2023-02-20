@@ -4,7 +4,7 @@
 
 ## I'm a UX designer who love to code a front-end project (oh and I'm an MBA grad as well)
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m passionate in product design
 - 👯 I’m looking to collaborate with other content creators to make something cool
 - 🥅 Short-term goals: Contribute more to Open Source projects
 - 🌍 Fun fact: I love golfing and everything that related to nature!
