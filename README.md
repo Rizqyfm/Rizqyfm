@@ -2,18 +2,17 @@
 ### You can visit my personal site here - [website] 👋
 
 
-## A product designer who love to code a front-end project (oh and I'm an MBA grad as well)
+## A product designer who love to write code sometimes (oh and I'm an MBA grad as well)
 
-- 🌱 I’m passionate in product design
-- 👯 I’m looking to collaborate with other content creators to make something cool
-- 🥅 Short-term goals: Contribute more to Open Source projects
+- 🌱 Passionate in product design
+- 👯 Looking to collaborate with other content creators to make something cool
+- 🥅 Short-term goals: Launch more side projects
 - 🌍 Fun fact: I love golfing and everything that related to nature!
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,6 +33,6 @@
 
 ---
 
-[website]: https://rizqyfm.netlify.app/
+[website]: https://rfm.framer.website/
 [instagram]: https://www.instagram.com/rizqyf_/
 [linkedin]: https://www.linkedin.com/in/rizqy-fachri/
